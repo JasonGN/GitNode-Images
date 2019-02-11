@@ -1,2 +1,2 @@
-# GitNode-Images
-Images for GitNode and so on
+# GitNote-Images
+Images for GitNote and so on
